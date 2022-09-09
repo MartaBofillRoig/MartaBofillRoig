@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
 
 I am a postdoctoral researcher at the [Center for Medical Statistics, Informatics and Intelligent Systems](https://cemsiis.meduniwien.ac.at/en/). 
-My research focuses on methods and software for clinical trials with multiple endpoints and adaptive platform trials.
+My research focuses on methods and software for clinical trials with multiple endpoints and platform trials.
 
 - ⚡ I'm currently working on non-concurrent controls (see [NCC_timetrends](https://github.com/MartaBofillRoig/NCC_timetrends) and [NCC-pkg](https://github.com/pavlakrotka/NCC))
 
