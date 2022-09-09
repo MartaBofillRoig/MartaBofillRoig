@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a postdoctoral researcher at the [Center for Medical Statistics, Informatics and Intelligent Systems](https://cemsiis.meduniwien.ac.at/en/). 
+My research focuses on methods and software for clinical trials with multiple endpoints and adaptive platform trials.
+
 <!--
 **MartaBofillRoig/MartaBofillRoig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
