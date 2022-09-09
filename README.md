@@ -4,7 +4,7 @@ I am a postdoctoral researcher at the [Center for Medical Statistics, Informatic
 My research focuses on methods and software for clinical trials with multiple endpoints and adaptive platform trials.
 
 - ⚡ I'm currently working on non-concurrent controls (see [NCC_timetrends](https://github.com/MartaBofillRoig/NCC_timetrends) and [NCC-pkg](https://github.com/pavlakrotka/NCC))
-- 📫 How to reach me [@martabofillr](https://twitter.com/martabofillr)
+- 📫 How to reach me: [https://martabofillroig.github.io](https://martabofillroig.github.io) and [@martabofillr](https://twitter.com/martabofillr)
 
 <!--
 **MartaBofillRoig/MartaBofillRoig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
