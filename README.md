@@ -1,6 +1,4 @@
-### Hi there 
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 I am a postdoctoral researcher at the [Center for Medical Data Science](https://cemsiis.meduniwien.ac.at/en/). 
 My research focuses on methods and software for clinical trials with multiple endpoints and platform trials.
