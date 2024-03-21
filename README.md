@@ -4,7 +4,8 @@ I am a postdoctoral researcher at the [Center for Medical Data Science](https://
 My research focuses on methods and software for clinical trials with multiple endpoints and platform trials.
 
 ⚡ Currently working on
-- Non-concurrent controls (see [NCC_timetrends](https://github.com/MartaBofillRoig/NCC_timetrends), [NCC-pkg](https://github.com/pavlakrotka/NCC) and [NCC_MethodsComp](https://github.com/pavlakrotka/NCC_MethodsComp)) and optimal allocation ([Allocation](https://github.com/MartaBofillRoig/Allocation))
+- Non-concurrent controls (see [NCC_timetrends](https://github.com/MartaBofillRoig/NCC_timetrends), [NCC-pkg](https://github.com/pavlakrotka/NCC) and [NCC_MethodsComp](https://github.com/pavlakrotka/NCC_MethodsComp)) 
+- Optimal allocation ([Allocation](https://github.com/MartaBofillRoig/Allocation))
 - Adaptive basket trial designs ([eWHORM](https://github.com/MartaBofillRoig/ewhorm_sim))
 
 <!--
