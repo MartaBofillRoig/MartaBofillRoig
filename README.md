@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-I am a postdoctoral researcher at the [Center for Medical Data Science](https://cemsiis.meduniwien.ac.at/en/). 
+I am a Serra Húnter Fellow (tenure-track lecturer) at the [Universitat Politècnica de Catalunya - BarcelonaTech](https://www.upc.edu/en). 
 My research focuses on methods and software for clinical trials with multiple endpoints and platform trials.
 
 ⚡ Currently working on
